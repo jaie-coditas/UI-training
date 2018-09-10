@@ -84,5 +84,9 @@ background-color:  #17a2d4;
 text-align: center;
 margin: 30 auto;
 display:block;
-border-radius: 3px 3px;
+border-radius: 3px;
+    border-width: 1px;
+    border-color: #e8e8e8;
+    border-style: solid;
+	padding:7;
 }
